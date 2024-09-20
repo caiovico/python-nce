@@ -1,0 +1,23 @@
+# Instruções para Instalação do Python
+
+## Windows
+
+1. Acesse o site oficial do Python: https://www.python.org/downloads/
+2. Clique no botão "Download Python" para baixar a versão mais recente.
+3. Execute o instalador baixado.
+4. Marque a opção "Add Python to PATH" antes de clicar em "Install Now".
+5. Após a instalação, abra o Prompt de Comando e digite `python --version` para verificar a instalação.
+
+## Linux
+
+1. Abra o terminal.
+2. Para distribuições baseadas em Debian (como Ubuntu), execute:
+    ```bash
+    sudo apt update
+    sudo apt install python3
+    ```
+3. Para distribuições baseadas em Red Hat (como Fedora), execute:
+    ```bash
+    sudo dnf install python3
+    ```
+4. Após a instalação, digite `python3 --version` no terminal para verificar a instalação.

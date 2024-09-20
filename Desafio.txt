@@ -1,0 +1,11 @@
+Faça um programa em python que leia diversos números inteiros.
+Quando o número for menor ou igual a zero o programa deverá parar e as seguintes informações deverão ser impressas:
+
+1. Todos os números em ordem crescente
+(https://docs.python.org/3/howto/sorting.html)
+
+2. A quantidade de números que foram inseridos
+
+3. A média 
+
+4. O número inserido que mais se aproxima da média

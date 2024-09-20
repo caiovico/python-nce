@@ -1,0 +1,10 @@
+# Links importantes da documentação do Python
+
+1. Documentação oficial do Python: https://docs.python.org/3/
+2. Tutorial de Python: https://docs.python.org/3/tutorial/index.html
+3. Biblioteca padrão do Python: https://docs.python.org/3/library/index.html
+4. Referência da linguagem Python: https://docs.python.org/3/reference/index.html
+5. Guia de estilo do Python (PEP 8): https://www.python.org/dev/peps/pep-0008/
+6. Python Package Index (PyPI): https://pypi.org/
+7. Documentação do Python para iniciantes: https://docs.python.org/3/tutorial/index.html#tutorial-intro
+8. Palavras Reservadas (keywords): https://docs.python.org/3/reference/lexical_analysis.html#keywords
